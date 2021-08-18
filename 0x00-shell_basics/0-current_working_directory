@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# prints absolute path name of current working directory
+./0-current_working_directory
